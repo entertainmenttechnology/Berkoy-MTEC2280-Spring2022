@@ -1,8 +1,9 @@
 /*
 This is a sound file player. 
  
- When mouse is not pressed, sample 1 loops.
- Press mouse is pressed, sample 2 loops.
+ Mouse press changes between two tracks.
+ 
+ Reference: https://processing.org/reference/libraries/sound/index.html
  */
 
 

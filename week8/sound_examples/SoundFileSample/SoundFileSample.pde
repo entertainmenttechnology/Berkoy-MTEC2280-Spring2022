@@ -1,9 +1,11 @@
 /*
 This is a sound file player. 
+
+Reference: https://processing.org/reference/libraries/sound/index.html
  */
 
 
-import processing.sound.*;
+import processing.sound.*; //import Processing sound library
 
 SoundFile file;
 

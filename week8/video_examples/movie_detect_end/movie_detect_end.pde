@@ -1,5 +1,5 @@
 /* Sketch to detect if movie has finished playing: 
- if time() exceeds duration(), switch to other movie.
+ if time() equals or exceeds duration(), switch to other movie.
  
  See https://processing.org/reference/libraries/video/index.html
  for further reference.
